@@ -1,0 +1,125 @@
+<html>
+
+
+
+<head>
+ <title>Топ 5 лучших игр по мнению критиков</title>
+</head>
+
+<h1><center><font size="14" color="black" face="Helvetica" ><b>Топ 5 лучших игр на ПК по мнению критиков</b></font size="14"></center></h1>
+
+<h2><font face="Helvetica">Доброго времени суток, друзья! </h2>
+
+
+<body bgcolor="f5f5dc">
+
+<font size="11" color="black" face="Helvetica" ><b><h6>В данной подборке мы посмотрим на пятерку лучших игр по мнению критиков.</h6></b></font>
+<hr>
+<br> <b>1.</b> <font size="5" color="black" face="Helvetica"><b>Death Stranding</b></font>
+<br>
+<br>
+<img src="https://images.theabcdn.com/i/35663555" width="550"
+<br>
+<br> 
+
+<font size="5" color="black" face="Helvetica"><left><b>Описание:</b> Экспериментальная работа японского геймдизайнера Хидео Кодзимы, который, как и обещал, выпустил симулятор курьера. Одним Death Stranding понравится (и даже покажется гениальной), других взбесит своей неспешностью. Пробовать играть стоит в любом случае, чтобы как минимум определиться, на чьей вы стороне в спорах о достижениях Кодзимы.</left></font>
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left>2019 год. <b> Жанр </b> — симулятор курьера</left></font>
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left><b>Платформы</b>: PS4</left></font>
+<br>
+<br>
+<font size="5"><a href="https://www.playstation.com/ru-ru/games/death-stranding-ps4/">Приобрести игру</a></font>
+<hr>
+<br>
+<br> <b>2.</b><font size="5" color="black" face="Helvetica"><b>Red Dead Redemption 2</b></font>
+<br>
+<br>
+<img src="https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg" width="550"
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left><b>Описание:</b> Главные герои Red Dead Redemption 2 — усталые бандиты, мечтающие уплыть на Таити, где, как им кажется, царит свобода и вседозволенность. Правда, ничего у головорезов не получится — их век прошел, и в новой Америке им места нет. У Rockstar вышел драматичный и, как ни странно, до жути медитативный боевик для тех, кого утомило мельтешение в современных блокбастерах.</left></font>
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left>2018 год. <b>Жанр</b> — экшен</left></font>
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left><b>Платформы</b>: PC, PS4 и Xbox One</left></font>
+<br>
+<br>
+<font size="5"><a href="https://store.playstation.com/ru-ru/product/EP1004-CUSA08519_00-REDEMPTION000002">Приобрести игру</a></font>
+<hr>
+<br>
+<br>
+<b>3.</b><font size="5" color="black" face="Helvetica"><b>God of War</b></font>
+<br>
+<br>
+<img src="https://i.ytimg.com/vi/pUKYBMqJT7A/maxresdefault.jpg" width="550"
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left><b>Описание:</b> Роуд-муви, в котором суровый полубог Кратос пытается наладить отношения со своим смертным сыном Атреем. Сын, в свою очередь, пытается оправдать надежды почти всемогущего отца. Вместе они отправляются в путешествие к горе, где хотят развеять прах матери Атрея. Из God of War получилась блестящая игра — и, можно сказать, не менее впечатляющее кино.</left></font>
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left>2018 год. <b>Жанр</b> — экшен
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left><b>Платформы</b>: PS4</left></font>
+<br>
+<br>
+<font size="5"><a href="https://store.playstation.com/ru-ru/product/EP9000-CUSA07412_00-0000000GODOFWARN">Приобрести игру</a></font>
+<hr>
+<br>
+<br>
+<b>4.</b><font size="5" color="black" face="Helvetica"><b>The Legend of Zelda: Breath of the Wild</b></font>
+<br>
+<br>
+<img src="https://saniyedekare-direnkocakuak.netdna-ssl.com/wp-content/uploads/the-legend-of-zelda-breath-of-the-wild.jpg" width="550"
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left><b>Описание:</b> Один из самых высокооцененных эксклюзивов Nintendo. Breath of the Wild стала новым этапом в развитии приключенческой серии The Legend of Zelda. Появились полноценный открытый мир и система вышек в духе Assassinʼs Creed. Бои полностью переработали, а главный герой научился карабкаться по горам и другим поверхностям. В Breath of the Wild приходится постоянно готовить еду, менять одежду (для похода в горы нужно утеплиться!) и оружие (оно ломается в бою). Но самое главное — это атмосфера приключения и возможность в самом начале игры убежать куда глаза глядят, чтобы исследовать секреты мира The Legend of Zelda.</left></font>
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left>2017 год. <b>Жанр</b> — приключенческая ролевая игра
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left><b>Платформы</b>: Nintendo Switch и Wii U</left></font>
+<br>
+<br>
+<font size="5"><a href="https://www.zelda.com/breath-of-the-wild/buy-now/">Приобрести игру</a></font>
+<hr>
+<br>
+<br>
+<b>5.</b><font size="5" color="black" face="Helvetica"><b>BioShock Infinite</b></font>
+<br>
+<br>
+<img src="https://i.pinimg.com/originals/4a/fa/c5/4afac56f363d6933075c69c2fd5a034a.jpg" width="550"
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left><b>Описание:</b> Главная работа американского геймдизайнера Кена Левина. В первой части BioShock Левин создал удивительную, ни на что не похожую антиутопию про подводный город, в котором все пошло наперекосяк. В Infinite геймдизайнер уже исследует религию, капитализм, классовое расслоение и ура-патриотизм — и с головой закапывается в фантастику и параллельные миры. Для этого он отправляет игроков со дна на небеса, а именно — в летающий город Колумбия. Левин мастерски зарифмовывает Infinite с первой частью BioShock, придумывая обеим играм новые смыслы и рисуя куда более сложную картину, чем кажется на первый взгляд.</left></font>
+<br>
+<br> 
+<font size="5" color="black" face="Helvetica"><left>2013 год. <b>Жанр</b> — шутер
+<br>
+<br>
+<font size="5" color="black" face="Helvetica"><left><b>Платформы</b>: PC, PS4, Xbox One, PS3 и Xbox 360</left></font>
+<br>
+<br>
+<font size="5"><a href="https://store.playstation.com/ru-ru/product/EP1001-CUSA03985_00-BIOSHOCKCOLLECTN">Приобрести игру</a></font>
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
